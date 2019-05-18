@@ -12,8 +12,11 @@
 
 Profile-guided optimizations (PGO) in a JVM employs profiling to understand execution-time program behavior and exploit that information to generate higher-quality code during code generation. We are studying the ratio of methods that are affected by PGOs by comparing generated object codes directly.
 
-## XYZ
-xyz
+## Results
+
+We created the follwing Java programs an compiled them with Hotspot VM with PGO turned ON and OFF. In both of these cases we generated assembly code and compared them using our Python script. We got the following results from our experiments. <br/>
+
+
 
 ## Project Structure
 

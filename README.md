@@ -16,6 +16,7 @@ Profile-guided optimizations (PGO) in a JVM employs profiling to understand exec
 
 We created the follwing Java programs an compiled them with Hotspot VM with PGO turned ON and OFF. In both of these cases we generated assembly code and compared them using our Python script. We got the following results from our experiments. <br/>
 
+![Table](https://user-images.githubusercontent.com/35944630/57963099-24b20080-78e5-11e9-9f86-980d51393fd3.PNG)
 
 
 ## Project Structure

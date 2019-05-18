@@ -17,8 +17,7 @@ xyz
 
 ## Project Structure
 
- **parse_logs_v3.py** - This script parses the assembly code.
- All the other log files provide more detailed information.
+ **parse_logs_v3.py** - This script parses the assembly code. <br/>All the other log files provide more detailed information.
 
 ## References
 

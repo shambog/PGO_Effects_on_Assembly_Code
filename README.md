@@ -21,7 +21,11 @@ We created the follwing Java programs an compiled them with Hotspot VM with PGO 
 
 ## Project Structure
 
- **parse_logs_v3.py** - This script parses the assembly code. <br/>All the other log files provide more detailed information.
+ **parse_logs_v3.py** - This script parses the assembly code
+ **exception_out.log** - Log file for the exception java program
+ **factorial_out.log** - Log file for the factorial java program
+ **helloworld_out.log** - Log file for the helloworld java program
+ **transpose_out.log** - Log file for the transpose java program
 
 ## References
 

@@ -1,0 +1,15 @@
+PGO OFF, number of method calls: 10
+PGO ON, number of method calls: 11
+'hashCode' matched 1 time(s)
+'<init>' does not have same assembly ops
+'<init>' matched 2 time(s)
+'arraycopy' matched 1 time(s)
+'indexOf' matched 1 time(s)
+'charAt' does not have same assembly ops
+'charAt' matched 1 time(s)
+'min' matched 1 time(s)
+'length' matched 1 time(s)
+'ensureCapacityInternal' matched 0 time(s)
+'equals' matched 1 time(s)
+'get' matched 1 time(s)
+Affected: 2 Total: 11 ( 18.181818181818183 %)

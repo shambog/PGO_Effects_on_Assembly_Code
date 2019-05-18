@@ -1,0 +1,40 @@
+PGO OFF, number of method calls: 19
+PGO ON, number of method calls: 67
+'hashCode' matched 3 time(s)
+'<init>' does not have same assembly ops
+'<init>' does not have same assembly ops
+'<init>' does not have same assembly ops
+'<init>' does not have same assembly ops
+'<init>' matched 7 time(s)
+'arraycopy' matched 3 time(s)
+'indexOf' does not have same assembly ops
+'indexOf' matched 4 time(s)
+'charAt' does not have same assembly ops
+'charAt' does not have same assembly ops
+'charAt' does not have same assembly ops
+'charAt' does not have same assembly ops
+'charAt' matched 4 time(s)
+'min' matched 3 time(s)
+'length' matched 3 time(s)
+'ensureCapacityInternal' matched 1 time(s)
+'equals' matched 3 time(s)
+'get' matched 3 time(s)
+'hashCode' matched 3 time(s)
+'<init>' does not have same assembly ops
+'<init>' does not have same assembly ops
+'<init>' does not have same assembly ops
+'<init>' does not have same assembly ops
+'<init>' matched 7 time(s)
+'arraycopy' matched 3 time(s)
+'indexOf' does not have same assembly ops
+'indexOf' matched 4 time(s)
+'charAt' does not have same assembly ops
+'charAt' does not have same assembly ops
+'charAt' does not have same assembly ops
+'charAt' does not have same assembly ops
+'charAt' matched 4 time(s)
+'length' matched 3 time(s)
+'min' matched 3 time(s)
+'equals' matched 3 time(s)
+'get' matched 3 time(s)
+Affected: 18 Total: 67 ( 26.865671641791046 %)
